@@ -23,6 +23,7 @@ Beberapa jenis sayuran yang dianalisis: Bawang Daun, Cabai Rawit, Kubis, dan lai
 
 Sumber Data : Website Badan Pusat Statistik Kabupaten Sukabumi
 Link Website : https://sukabumikab.bps.go.id/id
+
 Link Data :
 * https://sukabumikab.bps.go.id/id/statistics-table/3/ZUhFd1JtZzJWVVpqWTJsV05XTllhVmhRSzFoNFFUMDkjMw==/produksi-tanaman-sayuran-menurut-kecamatan-dan-jenis-tanaman-di-kabupaten-sukabumi--2023.html?year=2019
 * https://sukabumikab.bps.go.id/id/statistics-table/3/ZUhFd1JtZzJWVVpqWTJsV05XTllhVmhRSzFoNFFUMDkjMw==/produksi-tanaman-sayuran-menurut-kecamatan-dan-jenis-tanaman-di-kabupaten-sukabumi--2023.html?year=2020
